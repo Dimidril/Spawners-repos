@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpawnersController : MonoBehaviour
+public class SpawnСycle: MonoBehaviour
 {
     [SerializeField] private float _duration;
 
